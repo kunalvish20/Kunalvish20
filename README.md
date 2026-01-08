@@ -49,32 +49,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal20&hide_border=true" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal20&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal20&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunal20&no-frame=true&margin-w=10" />
-</p>
-
 ---
 
 ## ✍️ Random Dev Quote
@@ -85,13 +59,6 @@
 
 ---
 
-## 😂 Random Dev Meme
-
-<p align="center">
-  <img src="https://randommeme-five.vercel.app/" style="height: 400px;" />
-</p>
-
----
 
 <p align="center">
   <i>Designing interfaces. Writing clean code. Improving every day.</i>

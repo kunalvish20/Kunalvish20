@@ -2,9 +2,10 @@
 <h3 align="center">Frontend / UI Developer from India</h3>
 
 <p align="center">
-  <a href="https://kunalvportfolio.vercel.app" target="_blank"> **Portfolio**</a> •
-  <a href="https://codepen.io/kunal20" target="_blank">**CodePen**</a>
+  <a href="https://kunalvportfolio.vercel.app" target="_blank"><strong>Portfolio</strong></a> ·
+  <a href="https://codepen.io/kunal20" target="_blank"><strong>CodePen</strong></a>
 </p>
+
 
 ---
 

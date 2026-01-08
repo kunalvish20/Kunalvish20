@@ -1,26 +1,42 @@
-<h1 align="center">Hi 😎, I'm Kunal</h1>
+<h1 align="center">Hi 😎, I'm Kunal Vishwakarma</h1>
 <h3 align="center">Frontend / UI Developer from India</h3>
+
+<p align="center">
+  <a href="https://kunalvportfolio.vercel.app" target="_blank">🌐 Portfolio</a> •
+  <a href="https://codepen.io/kunal20" target="_blank">CodePen</a>
+</p>
 
 ---
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on: **Frontend Projects**
+- 🔭 I’m currently working on: **Frontend & UI Projects**
 - 👯 I’m looking to collaborate on: **Open Source Contributions**
 - 🤝 I’m looking for help with: **Backend Development**
-- 🌱 I’m currently learning: **Advanced JavaScript & DSA**
-- 💬 Ask me about: **React | Next.js | UI Development**
-- ⚡ Fun fact: **JavaScript never stops surprising me**
+- 🌱 I’m currently learning: **DSA & Modern JavaScript**
+- 💬 Ask me about: **HTML | CSS | JavaScript | React | UI Design**
+- ⚡ Fun fact: **JavaScript keeps evolving — and I love it**
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect with Me
 
 <p align="left">
-  <a href="#" target="_blank">Instagram</a> •
-  <a href="#" target="_blank">LinkedIn</a> •
-  <a href="#" target="_blank">Twitter</a> •
-  <a href="https://kunalvportfolio.vercel.app" target="_blank">Portfolio</a>
+  <a href="https://github.com/kunal20" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-kunal20-black?style=flat&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/kunal-vishwakarma-aa5056366/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kunal%20Vishwakarma-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/kunaalvish_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-kunaalvish__-E4405F?style=flat&logo=instagram" />
+  </a>
+  <a href="https://www.threads.net/@kunaalvish_" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-kunaalvish__-black?style=flat&logo=threads" />
+  </a>
+  <a href="https://codepen.io/kunal20" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-kunal20-black?style=flat&logo=codepen" />
+  </a>
 </p>
 
 ---
@@ -33,14 +49,22 @@
 
 ---
 
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal20&hide_border=true" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal20&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal20&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -48,15 +72,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true" />
-</p>
-
----
-
-## 🐦 Latest Tweet
-
-<p>
-  <img src="https://gtce.itsvg.in/api?username=YOUR_TWITTER_USERNAME" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kunal20&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -64,7 +80,7 @@
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
 </p>
 
 ---
@@ -78,5 +94,5 @@
 ---
 
 <p align="center">
-  <i>Building clean UI. One component at a time.</i>
+  <i>Designing interfaces. Writing clean code. Improving every day.</i>
 </p>
